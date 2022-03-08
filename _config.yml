@@ -1,9 +1,9 @@
 title: noredeen
 author: Noredeen Al-Zu'bi
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev # root address of the site
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: "" # description of the site (multiple lines allowed)
+email: nalzubi@uwaterloo.ca
+url: https://noredeen-alzubi.github.io # root address of the site
+baseurl: ""
+description: ""
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
