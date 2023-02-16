@@ -1,7 +1,7 @@
 title: noredeen
 author: Noredeen Al-Zu'bi
 email: nalzubi@uwaterloo.ca
-url: https://noredeen-alzubi.github.io # root address of the site
+url: https://noredeen.github.io # root address of the site
 baseurl: ""
 description: ""
 permalink: /:slug.html
